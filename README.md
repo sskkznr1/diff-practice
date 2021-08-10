@@ -1,3 +1,3 @@
 # diff-practice
 git 練習用
-変更staging用first
+複数ファイル変更third
