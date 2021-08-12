@@ -1,4 +1,4 @@
 # diff-practice
 git 練習用
 複数ファイル変更third
-mergetool(コンフリクト用)(feature brnch)
+rebase-practice change
